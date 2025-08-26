@@ -1,3 +1,4 @@
+torch
 # LangChain Core
 langchain
 langchain-core
