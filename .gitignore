@@ -4,3 +4,9 @@
 .venv/
 
 models
+
+.DS_Store
+
+.idea
+
+.cadence
